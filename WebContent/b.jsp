@@ -9,6 +9,7 @@
 <body>
 <%
   int age=10;
+ String name="gy";
 %>
 </body>
 </html>
